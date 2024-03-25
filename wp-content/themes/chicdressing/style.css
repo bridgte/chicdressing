@@ -18,6 +18,7 @@ Text Domain:	 chicdressing
 body .page-content, .page-content select, .page-content input, .page-content textarea, .page-content .post-author a, .page-content .ashe-widget a, .page-content .comment-author {
     color: #a5a5a5;
     font-size: 12px;
+
 }
 
 
@@ -63,4 +64,28 @@ body .header-logo a{
 #chic-products ul.products li.product{
     background: #f6f6f6;
     padding-bottom: 20px;
+}
+
+@font-face {
+    font-family: 'Kalam';
+    src: url(fonts/Kalam-Bold.ttf), url(fonts/Kalam-Light.ttf), url(fonts/Kalam-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url(fonts/OpenSans-Italic-VariableFont_wdth\,wght.ttf), url(fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'playfair';
+    src: url(fonts/Playfair-Italic-VariableFont_opsz\,wdth\,wght.ttf), url(fonts/Playfair-VariableFont_opsz\,wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'rokkitt';
+    src: url(fonts/Rokkitt-Italic-VariableFont_wght.ttf), url(fonts/Rokkitt-VariableFont_wght.ttf);
+}
+
+body p {
+    color: #828282;
 }

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-19 17:50:51+0000\n"
+"PO-Revision-Date: 2024-03-21 13:22:54+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5195,8 +5195,8 @@ msgstr "Impossible de créer ou d’écrire sur %s lors de l’exportation CSV. 
 #: packages/action-scheduler/classes/ActionScheduler_AdminView.php:195
 msgid "<strong>Action Scheduler:</strong> %1$d <a href=\"%2$s\">past-due action</a> found; something may be wrong. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Read documentation &raquo;</a>"
 msgid_plural "<strong>Action Scheduler:</strong> %1$d <a href=\"%2$s\">past-due actions</a> found; something may be wrong. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Read documentation &raquo;</a>"
-msgstr[0] "<strong>Planificateur d’actions :</strong> %1$d <a href=\"%2$s\">action échue</a> trouvée ; il y a peut-être un problème. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Lire la documentation »</a>"
-msgstr[1] "<strong>Planificateur d’actions :</strong> %1$d <a href=\"%2$s\">actions échues</a> trouvées ; il y a peut-être un problème. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Lire la documentation »</a>"
+msgstr[0] "<strong>Planificateur d’actions :</strong> %1$d <a href=\"%2$s\">action passée</a> trouvée ; il y a peut-être un problème. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Lire la documentation »</a>"
+msgstr[1] "<strong>Planificateur d’actions :</strong> %1$d <a href=\"%2$s\">actions passées</a> trouvées ; il y a peut-être un problème. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Lire la documentation »</a>"
 
 #: includes/class-wc-countries.php:464
 msgctxt "shipping country prefix"
