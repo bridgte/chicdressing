@@ -21,7 +21,7 @@ if ( is_home() ) {
 	// On ajoute les derniers produits
 	?>
 	<div id="chic-products"  class="boxed-wrapper clear-fix">
-		<h1 class="chic-title">Dernières pièces </h1>
+		<h2 class="chic-title">Dernières pièces </h2>
 		<?php
 		echo do_shortcode('[products orderby="date" columns="3" order="ASC"]');
 		?>
